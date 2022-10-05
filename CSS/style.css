@@ -1,3 +1,11 @@
 img {
     width: 200px;
 }
+
+table tr td{
+    border:1px solid #000;
+}
+
+.pati {
+    text-align: center;
+}
